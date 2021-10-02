@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/kinetic/include/**",
+        "/usr/include/**",
+        "/home/qcl/ROS_LEARNING/pub_sub/devel/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
